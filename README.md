@@ -3,7 +3,7 @@
 ## I am a junior software developer who loves to build things for the web!
 - 🔭 I’m actively looking for a role in web development field!
 - ⚡  I’m currently enrolling in [The Advanced JS Bootcamp](https://thejsbootcamp.com/)!
-- 🌱 I’m currently learning advanced javascript and the React ecosystem (Gatsby, Next.js).
+- 🌱 I just graduated from [George Brown College](https://www.georgebrown.ca/) with the major of Computer Programmer Analyst.
 
 ### Connect with me:
 
