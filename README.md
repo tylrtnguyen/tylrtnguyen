@@ -1,6 +1,7 @@
 ### Hi there, I'm [Thong Nguyen](https://www.thongba.io) 👋
 
 ## I am a junior software developer who loves to build things for the web!
+- :tada: Checkout my latest project [here](https://github.com/tylrtnguyen/react-github-visualizer)
 - 🔭 I’m actively looking for a role in web development field!
 - ⚡  I’m currently enrolling in [The Advanced JS Bootcamp](https://thejsbootcamp.com/)!
 - 🌱 I just graduated from [George Brown College](https://www.georgebrown.ca/) with the major of Computer Programmer Analyst.
