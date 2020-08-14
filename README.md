@@ -41,5 +41,5 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tylrtnguyen&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="Thong Nguyen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=tylrtnguyen&show_icons=true&hide_border=true&theme=tokyonight" />
 
