@@ -1,6 +1,6 @@
 ### Hi there, I'm [Thong Nguyen](https://www.thongba.io) 👋
 
-## I am a junior software developer who loves to build things for the web!
+## I am a junior software developer who loves to use code to solve real-world problems
 - :tada: Checkout my latest project [here](https://github.com/tylrtnguyen/react-github-visualizer)
 - 🔭 I’m actively looking for an internship or an entry-level position in the web development field!
 - ⚡  I’m currently enrolling in [The Advanced JS Bootcamp](https://thejsbootcamp.com/)!
