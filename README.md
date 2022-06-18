@@ -2,8 +2,8 @@
 
 ## I am a Software Engineer who loves to give creative solutions to real-world problems
 - :tada: Checkout my latest project [here](https://github.com/tylrtnguyen/react-github-visualizer)
-- ⚡  I’m working as a Software Engineer at [Scotiabank](https://www.scotiabank.com/global/en/global-site.html)!
-- 🌱 I'm studying Distributed Ledger Technology and backend concepts
+- ⚡  solving problems at [Scotiabank](https://www.scotiabank.com/global/en/global-site.html) - Innovation Team!
+- 🌱 studying Distributed Ledger Technology and backend concepts
 
 ### Connect with me:
 
